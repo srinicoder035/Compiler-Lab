@@ -1,0 +1,6 @@
+switch(k)
+{
+  case 1: a = b+c; d=e+f; break;
+  case 2: c = k+r; break;
+  default: l = m+n;
+}
